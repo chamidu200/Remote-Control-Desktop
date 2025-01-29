@@ -1,7 +1,7 @@
 <h3><b># Secure Horizon - Windows Remote Desktop (MR.C005)</b></h3>
 
 <p align="center">
-  <img src="Secure_Horizon.png" alt="Secure Horizon" />
+  <img src="https://github.com/chamidu200/Remote-Control-Desktop/blob/a36408ed65340b6d0bf9078e92cfeb656ceb0fe5/Secure%20Horizon.png" alt="Secure Horizon" />
 </p>
 
 ## 📌 Overview
