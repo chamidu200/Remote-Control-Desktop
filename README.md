@@ -1,2 +1,39 @@
-# Remote-Control-Desktop
-📌 Overview  Secure Horizon [MR.C005] is a Windows Remote Desktop automation script that allows users to establish a secure and efficient RDP connection via a simple command execution. This tool is designed to simplify remote access and enhance security while maintaining ease of use.
+<h3><b># Secure Horizon - Windows Remote Desktop (MR.C005)</b></h3>
+
+<p align="center">
+  <img src="Secure_Horizon.png" alt="Secure Horizon" />
+</p>
+
+## 📌 Overview
+Secure Horizon [MR.C005] is a Windows Remote Desktop automation script that allows users to establish a secure and efficient RDP connection via a simple command execution. This tool is designed to simplify remote access and enhance security while maintaining ease of use.
+
+## 🔥 Features
+- Automated RDP connection setup.
+- Enhanced security configurations.
+- Lightweight and easy-to-use CMD script.
+- No installation required.
+
+## 🚀 How to Use
+1. **Download and extract the repository**.
+2. **Run** `RDP.CMD` as Administrator.
+3. **Follow the on-screen instructions** to establish a secure RDP session.
+
+## 📂 Files Included
+- `RDP.CMD` - The main script for initiating RDP access.
+- `Secure_Horizon.png` - Banner image for branding.
+- `SECURE.scr` - (Optional) Security-related screen saver.
+- `Horizon.png.lnk` - Shortcut file.
+
+## 👨‍💻 Author
+**Secure Horizon [MR.C005]**  
+📌 GitHub: [github.com/chamidu200](https://github.com/chamidu200)  
+📌 Telegram: [t.me/hackingword24](https://t.me/hackingword24)  
+📌 YouTube: [@chamidunimsara20052](https://www.youtube.com/@chamidunimsara20052)  
+
+## ⚠ Disclaimer
+This tool is intended for **educational purposes only**. Unauthorized use of this tool to access remote systems without permission may be illegal. The author is not responsible for any misuse or consequences resulting from the use of this tool.
+
+---
+
+> "Secure your connection. Access with confidence!"
+
