@@ -31,7 +31,7 @@ Secure Horizon [MR.C005] is a Windows Remote Desktop automation script that allo
 ## 👨‍💻 Author
 **Secure Horizon [MR.C005]**  
 📌 GitHub: [github.com/chamidu200](https://github.com/chamidu200)  
-📌 Telegram: [t.me/hackingword24](https://t.me/hackingword24)  
+📌 Telegram: [https://t.me/secure_horizon_MR_C005])  
 📌 YouTube: [@chamidunimsara20052](https://www.youtube.com/@chamidunimsara20052)  
 
 ## ⚠ Disclaimer
